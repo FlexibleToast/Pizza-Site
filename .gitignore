@@ -1,0 +1,5 @@
+.idea/*
+images/*
+phpmailer/*
+tinymce/*
+config.php
