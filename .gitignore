@@ -3,3 +3,4 @@ images/*
 phpmailer/*
 tinymce/*
 config.php
+.remote-sync.json
